@@ -1,0 +1,251 @@
+,index,over,batter,bowler,non_striker,runs,wickets,extras,review,batter_runs,extras_runs,total_runs,player_out,wicket_type,wides,legbyes,byes,no_ball,fielders_involved_in_wicket
+0,0,1.0,FH Allen,HH Pandya,DP Conway,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+1,1,1.0,DP Conway,HH Pandya,FH Allen,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+2,2,1.0,DP Conway,HH Pandya,FH Allen,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+3,3,1.0,DP Conway,HH Pandya,FH Allen,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+4,4,1.0,DP Conway,HH Pandya,FH Allen,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+5,5,1.0,FH Allen,HH Pandya,DP Conway,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+6,6,2.0,DP Conway,Washington Sundar,FH Allen,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+7,7,2.0,DP Conway,Washington Sundar,FH Allen,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+8,8,2.0,DP Conway,Washington Sundar,FH Allen,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+9,9,2.0,DP Conway,Washington Sundar,FH Allen,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+10,10,2.0,DP Conway,Washington Sundar,FH Allen,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+11,11,2.0,DP Conway,Washington Sundar,FH Allen,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+12,12,3.0,FH Allen,HH Pandya,DP Conway,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+13,13,3.0,FH Allen,HH Pandya,DP Conway,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+14,14,3.0,FH Allen,HH Pandya,DP Conway,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+15,15,3.0,DP Conway,HH Pandya,FH Allen,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+16,16,3.0,FH Allen,HH Pandya,DP Conway,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+17,17,3.0,FH Allen,HH Pandya,DP Conway,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+18,18,4.0,FH Allen,YS Chahal,DP Conway,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+19,19,4.0,FH Allen,YS Chahal,DP Conway,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+20,20,4.0,FH Allen,YS Chahal,DP Conway,"{'batter': 0, 'extras': 0, 'total': 0}","[{'player_out': 'FH Allen', 'kind': 'bowled'}]",,,0,0,0,FH Allen,bowled,0,0,0,0,0
+21,21,4.0,MS Chapman,YS Chahal,DP Conway,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+22,22,4.0,MS Chapman,YS Chahal,DP Conway,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+23,23,4.0,MS Chapman,YS Chahal,DP Conway,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+24,24,5.0,DP Conway,Washington Sundar,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+25,25,5.0,DP Conway,Washington Sundar,MS Chapman,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+26,26,5.0,MS Chapman,Washington Sundar,DP Conway,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+27,27,5.0,DP Conway,Washington Sundar,MS Chapman,"{'batter': 0, 'extras': 5, 'total': 5}",,{'wides': 5},,0,5,5,0,0,5,0,0,0,0
+28,28,5.0,DP Conway,Washington Sundar,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}","[{'player_out': 'DP Conway', 'fielders': [{'name': 'Ishan Kishan'}], 'kind': 'caught'}]",,"{'by': 'New Zealand', 'umpire': 'Nitin Menon', 'batter': 'DP Conway', 'decision': 'struck down'}",0,0,0,DP Conway,caught,0,0,0,0,Ishan Kishan
+29,29,5.0,GD Phillips,Washington Sundar,MS Chapman,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+30,30,5.0,MS Chapman,Washington Sundar,GD Phillips,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+31,31,6.0,GD Phillips,YS Chahal,MS Chapman,"{'batter': 0, 'extras': 1, 'total': 1}",,{'wides': 1},,0,1,1,0,0,1,0,0,0,0
+32,32,6.0,GD Phillips,YS Chahal,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+33,33,6.0,GD Phillips,YS Chahal,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+34,34,6.0,GD Phillips,YS Chahal,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+35,35,6.0,GD Phillips,YS Chahal,MS Chapman,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+36,36,6.0,GD Phillips,YS Chahal,MS Chapman,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+37,37,6.0,MS Chapman,YS Chahal,GD Phillips,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+38,38,7.0,GD Phillips,DJ Hooda,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+39,39,7.0,GD Phillips,DJ Hooda,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+40,40,7.0,GD Phillips,DJ Hooda,MS Chapman,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+41,41,7.0,MS Chapman,DJ Hooda,GD Phillips,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+42,42,7.0,GD Phillips,DJ Hooda,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}","[{'player_out': 'GD Phillips', 'kind': 'bowled'}]",,,0,0,0,GD Phillips,bowled,0,0,0,0,0
+43,43,7.0,DJ Mitchell,DJ Hooda,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+44,44,8.0,MS Chapman,Kuldeep Yadav,DJ Mitchell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+45,45,8.0,DJ Mitchell,Kuldeep Yadav,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+46,46,8.0,DJ Mitchell,Kuldeep Yadav,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+47,47,8.0,DJ Mitchell,Kuldeep Yadav,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+48,48,8.0,DJ Mitchell,Kuldeep Yadav,MS Chapman,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+49,49,8.0,DJ Mitchell,Kuldeep Yadav,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+50,50,9.0,MS Chapman,DJ Hooda,DJ Mitchell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+51,51,9.0,DJ Mitchell,DJ Hooda,MS Chapman,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+52,52,9.0,MS Chapman,DJ Hooda,DJ Mitchell,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+53,53,9.0,MS Chapman,DJ Hooda,DJ Mitchell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+54,54,9.0,DJ Mitchell,DJ Hooda,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+55,55,9.0,DJ Mitchell,DJ Hooda,MS Chapman,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+56,56,10.0,MS Chapman,Kuldeep Yadav,DJ Mitchell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+57,57,10.0,DJ Mitchell,Kuldeep Yadav,MS Chapman,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+58,58,10.0,MS Chapman,Kuldeep Yadav,DJ Mitchell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+59,59,10.0,DJ Mitchell,Kuldeep Yadav,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+60,60,10.0,DJ Mitchell,Kuldeep Yadav,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+61,61,10.0,DJ Mitchell,Kuldeep Yadav,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}","[{'player_out': 'DJ Mitchell', 'kind': 'bowled'}]",,,0,0,0,DJ Mitchell,bowled,0,0,0,0,0
+62,62,11.0,MS Chapman,DJ Hooda,MG Bracewell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+63,63,11.0,MG Bracewell,DJ Hooda,MS Chapman,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+64,64,11.0,MS Chapman,DJ Hooda,MG Bracewell,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+65,65,11.0,MS Chapman,DJ Hooda,MG Bracewell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+66,66,11.0,MG Bracewell,DJ Hooda,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+67,67,11.0,MG Bracewell,DJ Hooda,MS Chapman,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+68,68,12.0,MG Bracewell,Kuldeep Yadav,MS Chapman,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+69,69,12.0,MS Chapman,Kuldeep Yadav,MG Bracewell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+70,70,12.0,MG Bracewell,Kuldeep Yadav,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+71,71,12.0,MG Bracewell,Kuldeep Yadav,MS Chapman,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+72,72,12.0,MS Chapman,Kuldeep Yadav,MG Bracewell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+73,73,12.0,MG Bracewell,Kuldeep Yadav,MS Chapman,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+74,74,13.0,MS Chapman,DJ Hooda,MG Bracewell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+75,75,13.0,MG Bracewell,DJ Hooda,MS Chapman,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+76,76,13.0,MS Chapman,DJ Hooda,MG Bracewell,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+77,77,13.0,MS Chapman,DJ Hooda,MG Bracewell,"{'batter': 0, 'extras': 0, 'total': 0}","[{'player_out': 'MS Chapman', 'fielders': [{'name': 'Ishan Kishan'}, {'name': 'Kuldeep Yadav'}], 'kind': 'run out'}]",,,0,0,0,MS Chapman,run out,0,0,0,0,"Ishan Kishan, Kuldeep Yadav"
+78,78,13.0,MJ Santner,DJ Hooda,MG Bracewell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+79,79,13.0,MG Bracewell,DJ Hooda,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+80,80,14.0,MG Bracewell,Washington Sundar,MJ Santner,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+81,81,14.0,MG Bracewell,Washington Sundar,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+82,82,14.0,MJ Santner,Washington Sundar,MG Bracewell,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+83,83,14.0,MJ Santner,Washington Sundar,MG Bracewell,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+84,84,14.0,MJ Santner,Washington Sundar,MG Bracewell,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+85,85,14.0,MJ Santner,Washington Sundar,MG Bracewell,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+86,86,15.0,MG Bracewell,HH Pandya,MJ Santner,"{'batter': 0, 'extras': 1, 'total': 1}",,{'wides': 1},,0,1,1,0,0,1,0,0,0,0
+87,87,15.0,MG Bracewell,HH Pandya,MJ Santner,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+88,88,15.0,MG Bracewell,HH Pandya,MJ Santner,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+89,89,15.0,MG Bracewell,HH Pandya,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+90,90,15.0,MJ Santner,HH Pandya,MG Bracewell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+91,91,15.0,MG Bracewell,HH Pandya,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+92,92,15.0,MJ Santner,HH Pandya,MG Bracewell,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+93,93,16.0,MG Bracewell,Kuldeep Yadav,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+94,94,16.0,MJ Santner,Kuldeep Yadav,MG Bracewell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+95,95,16.0,MG Bracewell,Kuldeep Yadav,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+96,96,16.0,MJ Santner,Kuldeep Yadav,MG Bracewell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+97,97,16.0,MG Bracewell,Kuldeep Yadav,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+98,98,16.0,MJ Santner,Kuldeep Yadav,MG Bracewell,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+99,99,17.0,MG Bracewell,HH Pandya,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+100,100,17.0,MJ Santner,HH Pandya,MG Bracewell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+101,101,17.0,MG Bracewell,HH Pandya,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+102,102,17.0,MJ Santner,HH Pandya,MG Bracewell,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+103,103,17.0,MG Bracewell,HH Pandya,MJ Santner,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+104,104,17.0,MG Bracewell,HH Pandya,MJ Santner,"{'batter': 0, 'extras': 0, 'total': 0}","[{'player_out': 'MG Bracewell', 'fielders': [{'name': 'Arshdeep Singh'}], 'kind': 'caught'}]",,,0,0,0,MG Bracewell,caught,0,0,0,0,Arshdeep Singh
+105,105,18.0,MJ Santner,Arshdeep Singh,IS Sodhi,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+106,106,18.0,IS Sodhi,Arshdeep Singh,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+107,107,18.0,MJ Santner,Arshdeep Singh,IS Sodhi,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+108,108,18.0,IS Sodhi,Arshdeep Singh,MJ Santner,"{'batter': 0, 'extras': 0, 'total': 0}","[{'player_out': 'IS Sodhi', 'fielders': [{'name': 'HH Pandya'}], 'kind': 'caught'}]",,,0,0,0,IS Sodhi,caught,0,0,0,0,HH Pandya
+109,109,18.0,LH Ferguson,Arshdeep Singh,MJ Santner,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+110,110,18.0,LH Ferguson,Arshdeep Singh,MJ Santner,"{'batter': 0, 'extras': 0, 'total': 0}","[{'player_out': 'LH Ferguson', 'fielders': [{'name': 'Washington Sundar'}], 'kind': 'caught'}]",,,0,0,0,LH Ferguson,caught,0,0,0,0,Washington Sundar
+111,111,19.0,MJ Santner,Shivam Mavi,JA Duffy,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+112,112,19.0,JA Duffy,Shivam Mavi,MJ Santner,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+113,113,19.0,JA Duffy,Shivam Mavi,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+114,114,19.0,MJ Santner,Shivam Mavi,JA Duffy,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+115,115,19.0,JA Duffy,Shivam Mavi,MJ Santner,"{'batter': 0, 'extras': 1, 'total': 1}",,{'wides': 1},,0,1,1,0,0,1,0,0,0,0
+116,116,19.0,JA Duffy,Shivam Mavi,MJ Santner,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+117,117,19.0,MJ Santner,Shivam Mavi,JA Duffy,"{'batter': 0, 'extras': 1, 'total': 1}",,{'wides': 1},,0,1,1,0,0,1,0,0,0,0
+118,118,19.0,MJ Santner,Shivam Mavi,JA Duffy,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+119,119,20.0,MJ Santner,Arshdeep Singh,JA Duffy,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+120,120,20.0,MJ Santner,Arshdeep Singh,JA Duffy,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+121,121,20.0,MJ Santner,Arshdeep Singh,JA Duffy,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+122,122,20.0,MJ Santner,Arshdeep Singh,JA Duffy,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+123,123,20.0,MJ Santner,Arshdeep Singh,JA Duffy,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+124,124,20.0,MJ Santner,Arshdeep Singh,JA Duffy,"{'batter': 0, 'extras': 1, 'total': 1}",,{'legbyes': 1},,0,1,1,0,0,0,1,0,0,0
+125,0,1.0,Shubman Gill,JA Duffy,Ishan Kishan,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+126,1,1.0,Shubman Gill,JA Duffy,Ishan Kishan,"{'batter': 3, 'extras': 0, 'total': 3}",,,,3,0,3,0,0,0,0,0,0,0
+127,2,1.0,Ishan Kishan,JA Duffy,Shubman Gill,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+128,3,1.0,Ishan Kishan,JA Duffy,Shubman Gill,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+129,4,1.0,Ishan Kishan,JA Duffy,Shubman Gill,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+130,5,1.0,Shubman Gill,JA Duffy,Ishan Kishan,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+131,6,2.0,Ishan Kishan,MG Bracewell,Shubman Gill,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+132,7,2.0,Ishan Kishan,MG Bracewell,Shubman Gill,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+133,8,2.0,Ishan Kishan,MG Bracewell,Shubman Gill,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+134,9,2.0,Ishan Kishan,MG Bracewell,Shubman Gill,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+135,10,2.0,Shubman Gill,MG Bracewell,Ishan Kishan,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+136,11,2.0,Shubman Gill,MG Bracewell,Ishan Kishan,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+137,12,3.0,Ishan Kishan,MJ Santner,Shubman Gill,"{'batter': 0, 'extras': 1, 'total': 1}",,{'wides': 1},,0,1,1,0,0,1,0,0,0,0
+138,13,3.0,Ishan Kishan,MJ Santner,Shubman Gill,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+139,14,3.0,Ishan Kishan,MJ Santner,Shubman Gill,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+140,15,3.0,Ishan Kishan,MJ Santner,Shubman Gill,"{'batter': 0, 'extras': 1, 'total': 1}",,{'wides': 1},,0,1,1,0,0,1,0,0,0,0
+141,16,3.0,Ishan Kishan,MJ Santner,Shubman Gill,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+142,17,3.0,Shubman Gill,MJ Santner,Ishan Kishan,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+143,18,3.0,Shubman Gill,MJ Santner,Ishan Kishan,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+144,19,3.0,Shubman Gill,MJ Santner,Ishan Kishan,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+145,20,4.0,Ishan Kishan,MG Bracewell,Shubman Gill,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+146,21,4.0,Ishan Kishan,MG Bracewell,Shubman Gill,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+147,22,4.0,Ishan Kishan,MG Bracewell,Shubman Gill,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+148,23,4.0,Ishan Kishan,MG Bracewell,Shubman Gill,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+149,24,4.0,Shubman Gill,MG Bracewell,Ishan Kishan,"{'batter': 0, 'extras': 0, 'total': 0}","[{'player_out': 'Shubman Gill', 'fielders': [{'name': 'FH Allen'}], 'kind': 'caught'}]",,,0,0,0,Shubman Gill,caught,0,0,0,0,FH Allen
+150,25,4.0,RA Tripathi,MG Bracewell,Ishan Kishan,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+151,26,5.0,Ishan Kishan,MJ Santner,RA Tripathi,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+152,27,5.0,RA Tripathi,MJ Santner,Ishan Kishan,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+153,28,5.0,Ishan Kishan,MJ Santner,RA Tripathi,"{'batter': 0, 'extras': 1, 'total': 1}",,{'wides': 1},,0,1,1,0,0,1,0,0,0,0
+154,29,5.0,Ishan Kishan,MJ Santner,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+155,30,5.0,Ishan Kishan,MJ Santner,RA Tripathi,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+156,31,5.0,RA Tripathi,MJ Santner,Ishan Kishan,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+157,32,5.0,RA Tripathi,MJ Santner,Ishan Kishan,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+158,33,6.0,RA Tripathi,MG Bracewell,Ishan Kishan,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+159,34,6.0,Ishan Kishan,MG Bracewell,RA Tripathi,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+160,35,6.0,RA Tripathi,MG Bracewell,Ishan Kishan,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+161,36,6.0,RA Tripathi,MG Bracewell,Ishan Kishan,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+162,37,6.0,Ishan Kishan,MG Bracewell,RA Tripathi,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+163,38,6.0,Ishan Kishan,MG Bracewell,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+164,39,7.0,RA Tripathi,GD Phillips,Ishan Kishan,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+165,40,7.0,Ishan Kishan,GD Phillips,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+166,41,7.0,Ishan Kishan,GD Phillips,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+167,42,7.0,Ishan Kishan,GD Phillips,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+168,43,7.0,Ishan Kishan,GD Phillips,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+169,44,7.0,Ishan Kishan,GD Phillips,RA Tripathi,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+170,45,8.0,RA Tripathi,IS Sodhi,Ishan Kishan,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+171,46,8.0,RA Tripathi,IS Sodhi,Ishan Kishan,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+172,47,8.0,Ishan Kishan,IS Sodhi,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+173,48,8.0,Ishan Kishan,IS Sodhi,RA Tripathi,"{'batter': 0, 'extras': 1, 'total': 1}",,{'wides': 1},,0,1,1,0,0,1,0,0,0,0
+174,49,8.0,Ishan Kishan,IS Sodhi,RA Tripathi,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+175,50,8.0,RA Tripathi,IS Sodhi,Ishan Kishan,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+176,51,8.0,RA Tripathi,IS Sodhi,Ishan Kishan,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+177,52,9.0,Ishan Kishan,GD Phillips,RA Tripathi,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+178,53,9.0,Ishan Kishan,GD Phillips,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+179,54,9.0,Ishan Kishan,GD Phillips,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+180,55,9.0,Ishan Kishan,GD Phillips,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+181,56,9.0,Ishan Kishan,GD Phillips,RA Tripathi,"{'batter': 1, 'extras': 0, 'total': 1}","[{'player_out': 'Ishan Kishan', 'fielders': [{'name': 'GD Phillips'}, {'name': 'MJ Santner'}], 'kind': 'run out'}]",,,1,0,1,Ishan Kishan,run out,0,0,0,0,"GD Phillips, MJ Santner"
+182,57,9.0,RA Tripathi,GD Phillips,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+183,58,10.0,SA Yadav,MJ Santner,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+184,59,10.0,SA Yadav,MJ Santner,RA Tripathi,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+185,60,10.0,SA Yadav,MJ Santner,RA Tripathi,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+186,61,10.0,RA Tripathi,MJ Santner,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+187,62,10.0,SA Yadav,MJ Santner,RA Tripathi,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+188,63,10.0,RA Tripathi,MJ Santner,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+189,64,11.0,SA Yadav,IS Sodhi,RA Tripathi,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+190,65,11.0,RA Tripathi,IS Sodhi,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+191,66,11.0,RA Tripathi,IS Sodhi,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+192,67,11.0,RA Tripathi,IS Sodhi,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}","[{'player_out': 'RA Tripathi', 'fielders': [{'name': 'GD Phillips'}], 'kind': 'caught'}]",,,0,0,0,RA Tripathi,caught,0,0,0,0,GD Phillips
+193,68,11.0,Washington Sundar,IS Sodhi,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+194,69,11.0,SA Yadav,IS Sodhi,Washington Sundar,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+195,70,12.0,Washington Sundar,GD Phillips,SA Yadav,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+196,71,12.0,Washington Sundar,GD Phillips,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+197,72,12.0,SA Yadav,GD Phillips,Washington Sundar,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+198,73,12.0,SA Yadav,GD Phillips,Washington Sundar,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+199,74,12.0,SA Yadav,GD Phillips,Washington Sundar,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+200,75,12.0,SA Yadav,GD Phillips,Washington Sundar,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+201,76,13.0,SA Yadav,IS Sodhi,Washington Sundar,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+202,77,13.0,SA Yadav,IS Sodhi,Washington Sundar,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+203,78,13.0,Washington Sundar,IS Sodhi,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+204,79,13.0,SA Yadav,IS Sodhi,Washington Sundar,"{'batter': 0, 'extras': 1, 'total': 1}",,{'wides': 1},,0,1,1,0,0,1,0,0,0,0
+205,80,13.0,SA Yadav,IS Sodhi,Washington Sundar,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+206,81,13.0,Washington Sundar,IS Sodhi,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+207,82,13.0,SA Yadav,IS Sodhi,Washington Sundar,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+208,83,14.0,Washington Sundar,MG Bracewell,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+209,84,14.0,SA Yadav,MG Bracewell,Washington Sundar,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+210,85,14.0,Washington Sundar,MG Bracewell,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+211,86,14.0,Washington Sundar,MG Bracewell,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+212,87,14.0,Washington Sundar,MG Bracewell,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+213,88,14.0,SA Yadav,MG Bracewell,Washington Sundar,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+214,89,15.0,SA Yadav,GD Phillips,Washington Sundar,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+215,90,15.0,SA Yadav,GD Phillips,Washington Sundar,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+216,91,15.0,SA Yadav,GD Phillips,Washington Sundar,"{'batter': 0, 'extras': 0, 'total': 0}","[{'player_out': 'Washington Sundar', 'fielders': [{'name': 'BM Tickner'}], 'kind': 'run out'}]",,"{'by': 'New Zealand', 'umpire': 'Nitin Menon', 'batter': 'SA Yadav', 'decision': 'struck down'}",0,0,0,Washington Sundar,run out,0,0,0,0,BM Tickner
+217,92,15.0,HH Pandya,GD Phillips,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+218,93,15.0,HH Pandya,GD Phillips,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+219,94,15.0,SA Yadav,GD Phillips,HH Pandya,"{'batter': 0, 'extras': 1, 'total': 1}",,{'wides': 1},,0,1,1,0,0,1,0,0,0,0
+220,95,15.0,SA Yadav,GD Phillips,HH Pandya,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+221,96,16.0,SA Yadav,IS Sodhi,HH Pandya,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+222,97,16.0,HH Pandya,IS Sodhi,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+223,98,16.0,HH Pandya,IS Sodhi,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+224,99,16.0,SA Yadav,IS Sodhi,HH Pandya,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+225,100,16.0,HH Pandya,IS Sodhi,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+226,101,16.0,HH Pandya,IS Sodhi,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+227,102,17.0,HH Pandya,MS Chapman,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+228,103,17.0,HH Pandya,MS Chapman,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+229,104,17.0,HH Pandya,MS Chapman,SA Yadav,"{'batter': 0, 'extras': 1, 'total': 1}",,{'legbyes': 1},,0,1,1,0,0,0,1,0,0,0
+230,105,17.0,SA Yadav,MS Chapman,HH Pandya,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+231,106,17.0,HH Pandya,MS Chapman,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+232,107,17.0,SA Yadav,MS Chapman,HH Pandya,"{'batter': 2, 'extras': 0, 'total': 2}",,,,2,0,2,0,0,0,0,0,0,0
+233,108,18.0,HH Pandya,MJ Santner,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+234,109,18.0,SA Yadav,MJ Santner,HH Pandya,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+235,110,18.0,HH Pandya,MJ Santner,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+236,111,18.0,SA Yadav,MJ Santner,HH Pandya,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+237,112,18.0,HH Pandya,MJ Santner,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+238,113,18.0,HH Pandya,MJ Santner,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+239,114,19.0,HH Pandya,LH Ferguson,SA Yadav,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+240,115,19.0,HH Pandya,LH Ferguson,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+241,116,19.0,SA Yadav,LH Ferguson,HH Pandya,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+242,117,19.0,SA Yadav,LH Ferguson,HH Pandya,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+243,118,19.0,HH Pandya,LH Ferguson,SA Yadav,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
+244,119,19.0,HH Pandya,LH Ferguson,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+245,120,20.0,HH Pandya,BM Tickner,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+246,121,20.0,SA Yadav,BM Tickner,HH Pandya,"{'batter': 0, 'extras': 0, 'total': 0}",,,,0,0,0,0,0,0,0,0,0,0
+247,122,20.0,SA Yadav,BM Tickner,HH Pandya,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+248,123,20.0,HH Pandya,BM Tickner,SA Yadav,"{'batter': 1, 'extras': 0, 'total': 1}",,,,1,0,1,0,0,0,0,0,0,0
+249,124,20.0,SA Yadav,BM Tickner,HH Pandya,"{'batter': 4, 'extras': 0, 'total': 4}",,,,4,0,4,0,0,0,0,0,0,0
